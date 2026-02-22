@@ -55,7 +55,7 @@ def run_bootloader():
 
 
 def main():
-    print("3E Automotive BootLoader")
+    print("MehmetKaTR BootLoader")
     print("---------------------------------------\n")
 
     mlx_master = MelexisUniversalMaster()
@@ -108,3 +108,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
